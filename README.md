@@ -42,6 +42,7 @@ Here is the list of the electronics used for this project:
 | OLED Screen     | 1        | Yes      | SH-S130                |
 | SD Card Module  | 1        | No       | (Required for logging) |
 | Pressure Sensor | 1        | No       | 500psi                 |
+
 ![](https://i.imgur.com/QGyZgbr.jpg)
 
 ## Electronic schemes
