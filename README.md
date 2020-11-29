@@ -29,6 +29,7 @@ The configuration menu allows to change the following settings:
 | Read Time (ms)   | The time between each sensor readings | 250     | 20    | 1000  |
 | Number of Blades | The number of blades on the fan       | 4       | 1     | 16    |
 | Read Mode        | Which sensor is to be used            | Power   | Power | Speed |
+
 Once modified the parameter are stored within the ESP32 even when powered off.
 
 ## Equipment (Electornics only)
@@ -47,7 +48,7 @@ Here is the list of the electronics used for this project:
 
 ## Electronic schemes
 ### Main Board
-![](https://i.imgur.com/a0bc3YB.jpg)
+![](https://i.imgur.com/BWAXsbA.jpg)
 
 ### Buttons Board
-![](https://i.imgur.com/BWAXsbA.jpg)
+![](https://i.imgur.com/a0bc3YB.jpg)
